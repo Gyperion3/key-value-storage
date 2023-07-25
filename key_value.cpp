@@ -128,7 +128,7 @@ const char* read_data(int page_num) {
 
 // Функция для проверки CRC страницы
 bool check_page_crc(int page_num) {
-    // ... ваш код для проверки CRC страницы ...
+    // ... код для проверки CRC страницы ...
     return true; // Вернуть true, если CRC совпадает (данные целостны), иначе false
 }
 
