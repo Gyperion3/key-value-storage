@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 #include <time.h> // Для функции clock()
-#include "../../Storage/Storage/Header.h"
+#include "Header.h"
 
 #define PAGE_SIZE 512       // Размер страницы записи
 #define BLOCK_SIZE 16384    // Размер блока очистки
